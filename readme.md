@@ -18,6 +18,8 @@ With [Quelpa](https://framagit.org/steckerhalter/quelpa)
   :config (other-window-previous-mode 1))
 ```
 
+> Note: this project is not destined for [melpa](https://melpa.org)
+
 Or manually, after downloading into your `load-path`
 
 ``` {.sourceCode .lisp}
