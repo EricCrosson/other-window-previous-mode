@@ -4,7 +4,7 @@
 ;;
 ;; Author: Eric Crosson <eric.s.crosson@utexas.edu>
 ;; Version: 0.0.1
-;; Keywords: conveniencely
+;; Keywords: convenience
 ;; Package-Requires: ((emacs "24"))
 ;; URL: https://github.com/EricCrosson/other-window-previous-mode
 ;;
@@ -27,7 +27,7 @@
 ;;
 ;;; Commentary:
 ;;
-;; Provides a minor-mode defining `other-window' backwards to "C-x O"
+;; Provides a minor-mode defining `other-window' backwards as "C-x O"
 ;; (capital O).
 
 ;;; Code:
