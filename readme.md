@@ -25,8 +25,6 @@ Or manually, after downloading into your `load-path`
 (other-window-previous-mode 1)
 ```
 
-## Related
-
 ## Acknowledgements
 
 This package is a modular implementation of a
