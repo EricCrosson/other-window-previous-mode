@@ -27,6 +27,10 @@ Or manually, after downloading into your `load-path`
 (other-window-previous-mode 1)
 ```
 
+## Example
+
+![Example](https://raw.githubusercontent.com/EricCrosson/other-window-previous-mode/master/img/demo.gif)
+
 ## Acknowledgements
 
 This package is a modular implementation of a
