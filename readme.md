@@ -1,4 +1,4 @@
-# other-window-previous-mode [![Build Status](https://travis-ci.org/EricCrosson/other-window-previous-mode.svg?branch=master)](https://travis-ci.org/EricCrosson/other-window-previous-mode)
+# other-window-previous-mode [![Build Status](https://travis-ci.org/EricCrosson/other-window-previous-mode.svg?branch=master)](https://travis-ci.org/EricCrosson/other-window-previous-mode) [![Version](https://img.shields.io/github/tag/EricCrosson/other-window-previous-mode.svg)](https://github.com/EricCrosson/other-window-previous-mode/releases)
 
 > GNU Emacs `other-window` backwards
 
