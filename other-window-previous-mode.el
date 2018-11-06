@@ -3,7 +3,7 @@
 ;;; Copyright (C) 2018  Free Software Foundation, Inc.
 ;;
 ;; Author: Eric Crosson <eric.s.crosson@utexas.edu>
-;; Version: 0.0.1
+;; Version: 1.0.0
 ;; Keywords: convenience
 ;; Package-Requires: ((emacs "24"))
 ;; URL: https://github.com/EricCrosson/other-window-previous-mode
