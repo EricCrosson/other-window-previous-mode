@@ -31,7 +31,7 @@ Or manually, after downloading into your `load-path`
 
 ![Example](https://raw.githubusercontent.com/EricCrosson/other-window-previous-mode/master/img/demo.gif)
 
-## Acknowledgements
+## Acknowledgments
 
 This package is a modular implementation of a
 [Prelude feature](http://emacsredux.com/blog/2013/03/30/go-back-to-previous-window/).
